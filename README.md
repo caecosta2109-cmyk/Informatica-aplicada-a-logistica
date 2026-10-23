@@ -14,3 +14,32 @@ Acessar dados abertos governamentais e coletar um conjunto de dados de sua prefe
 Elaborar e responder, via fórmulas ou gráficos, 5 perguntas sobre os dados
 [Exercicio Adriana.xlsx](https://github.com/user-attachments/files/32870605/Exercicio.Adriana.xlsx)
 
+
+# Informatica-aplicada-a-logistica
+03 Trabalho de Informatica Planilhas 05 perguntas em Powerby
+
+Pergunta 1  -  Cidade com mais operadores 
+<img width="1279" height="550" alt="Pergunta 1" src="https://github.com/user-attachments/assets/521b87fe-1800-4ff9-9f80-21bab1751584" />
+
+
+Pergunta 2 - Quantas empresas aderiram ao decreto por estado 
+<img width="1266" height="548" alt="Pergunta 2" src="https://github.com/user-attachments/assets/dec44271-63da-490a-999a-2ce33f1e99e9" />
+
+
+Pergunta 3 - Quantos registros vencem a cada ano a partir de 2027
+Pergunta 4 - Qual o tipo societário dos operadores?
+<img width="1292" height="550" alt="Pergunta 3,4" src="https://github.com/user-attachments/assets/6e44e1b7-e27c-4968-bfb0-7fcb95b502e0" />
+
+
+Pergunta 5 - Em quais anos mais operadores entraram no mercado
+<img width="1270" height="547" alt="Pergunta 5" src="https://github.com/user-attachments/assets/2d1aef9e-b42a-4bbf-a8fc-bca8f5b946f5" />
+
+
+
+
+
+
+
+
+
+
