@@ -27,8 +27,8 @@ Pergunta 2 - Quantas empresas aderiram ao decreto por estado
 
 
 Pergunta 3 - Quantos registros vencem a cada ano a partir de 2027
-Pergunta 4 - Qual o tipo societário dos operadores?
-<img width="1292" height="550" alt="Pergunta 3,4" src="https://github.com/user-attachments/assets/6e44e1b7-e27c-4968-bfb0-7fcb95b502e0" />
+Pergunta 4 - Qual o tipo societário dos operadores
+<img width="1272" height="564" alt="Pergunta 3,4" src="https://github.com/user-attachments/assets/37aecf0c-ee74-455c-b8f5-0d6504c4d114" />
 
 
 Pergunta 5 - Em quais anos mais operadores entraram no mercado
