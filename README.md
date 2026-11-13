@@ -37,6 +37,8 @@ Pergunta 5 - Em quais anos mais operadores entraram no mercado
 
 
 
+Prova Adriana  Exercicio  04   
+<img width="1352" height="699" alt="image" src="https://github.com/user-attachments/assets/6e4e2726-3b4d-4945-bffb-d51b81d25bcc" />
 
 
 
